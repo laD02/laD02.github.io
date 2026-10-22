@@ -1,2 +1,2 @@
 # One Line Fill — authorized ad sellers (https://iabtechlab.com/ads-txt/)
-google.com, pub-6470687466304779, DIRECT, f08c47fec0942fa0
+google.com, pub-5420799226073285, DIRECT, f08c47fec0942fa0
