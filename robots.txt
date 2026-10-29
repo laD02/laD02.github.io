@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://lad02.github.io/sitemap.xml
+Sitemap: https://lad02.github.io/logic-grid/sitemap.xml
